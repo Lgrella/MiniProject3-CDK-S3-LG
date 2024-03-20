@@ -24,7 +24,7 @@
 # Screenshots of this process
 
 ## Terminal
-![cdksynth](dksynth.png)
+![cdksynth](cdksynth.png)
 
 ![terminalupdates](cdksynth.png)
 
@@ -40,8 +40,8 @@
 ## Additional Permissions
 ![permissions1](permissions1.png)
 
-![bucketpolicy](bucketpolicy.png)
+![bucketpolicy](<bucket policy.png>)
 
-![accesscontrol](accesscontrol.png)
+![accesscontrol](<access control.png>)
 
 ![versioningenabled](versioningenabled.png)
